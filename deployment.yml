@@ -16,6 +16,6 @@ spec:
     spec:  
       containers:
         - name: node-app-container
-          image: abismohammad/node-metrics-app:main-8b91600
+          image: abismohammad/node-metrics-app:main-acc2a5a
           ports:
            - containerPort: 3000 
